@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\riddles\\riddle elements\\dropspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddles\\riddle elements\\dropspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|c:\\users\\intel\\desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\riddles\\riddle elements\\draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddles\\riddle elements\\draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|c:\\users\\intel\\desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\interacthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interacthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\riddles\\riddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddles\\riddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\gamehandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamehandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\riddles\\phasedobjectdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddles\\phasedobjectdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\assets\\scripts\\riddles\\riddle elements\\draggable types\\basiccalcdraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddles\\riddle elements\\draggable types\\basiccalcdraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Draggable.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:44:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameHandlerScript.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\GameHandlerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameHandlerScript.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\GameHandlerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameHandlerScript.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAqwLUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:33:15.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\InteractHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractHandler.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\InteractHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractHandler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:48:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:47:50.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RiddleScript.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\RiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Riddles\\RiddleScript.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\RiddleScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Riddles\\RiddleScript.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv6UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:11:37.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhasedObjectDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\PhasedObjectDelegate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Riddles\\PhasedObjectDelegate.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\PhasedObjectDelegate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Riddles\\PhasedObjectDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:06:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicCalcDraggable.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable Types\\BasicCalcDraggable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable Types\\BasicCalcDraggable.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable Types\\BasicCalcDraggable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Riddles\\Riddle Elements\\Draggable Types\\BasicCalcDraggable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:08:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DropSpot.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\DropSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Riddles\\Riddle Elements\\DropSpot.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\!!szakdolg\\program\\mathemagician - matem\u00E1gikus\\Assets\\Scripts\\Riddles\\Riddle Elements\\DropSpot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Riddles\\Riddle Elements\\DropSpot.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwF8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:34:58.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

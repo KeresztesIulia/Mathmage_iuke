@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3593474379250791085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5444883863906595873}
+  - component: {fileID: 3921487449645375192}
+  - component: {fileID: 181377602620748563}
+  - component: {fileID: 2699013806365895289}
+  m_Layer: 0
+  m_Name: ENDMagicDevice
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5444883863906595873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593474379250791085}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 7338261054520214886}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3921487449645375192
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593474379250791085}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.6336322, y: 3.1498232, z: 1.6902062}
+  m_Center: {x: -0.00000011920929, y: 1.5614505, z: 0.005657375}
+--- !u!114 &181377602620748563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593474379250791085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a0025401d6c7444ac105a1b08b55dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: "Valamilyen eszk\xF6z?"
+  activationText: "Megfigyel\xE9s"
+  videoNotWatchedText: "Nem igaz\xE1n tudom, mit csin\xE1l, \xE9s most \xFAgy sincs
+    id\u0151m ezzel foglalkozni.\\\\Jobb, ha nem ny\xFAlok hozz\xE1."
+  endingReachedText: "M\xE1r nincs mit kezzek ezzel. Ink\xE1bb meg k\xE9ne n\xE9zzem,
+    hogy t\xE9nyleg minden helyrej\xF6tt-e."
+  deviceActivationTimeline: {fileID: 0}
+  deviceBall: {fileID: 6531980973579266031}
+  DDCollection: {fileID: 0}
+--- !u!114 &2699013806365895289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593474379250791085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 86e6792a984b8a644a24e3919a729ec0, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 181377602620748563}
+          m_TargetAssemblyTypeName: ENDMagicDevice, Assembly-CSharp
+          m_MethodName: AfterActivation
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!1001 &7087545350491185805
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5444883863906595873}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f52bfa85e0977634f97872c1f274bb00, type: 2}
+    - target: {fileID: 705525777829356259, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d26af9cae3bee7d48a562206e86661ab, type: 2}
+    - target: {fileID: 919132149155446097, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+      propertyPath: m_Name
+      value: ENDMagicDevice
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+--- !u!1 &6531980973579266031 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5117700066308340382, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+  m_PrefabInstance: {fileID: 7087545350491185805}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7338261054520214886 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1277596bd42409d4ea1012df7fd3b1e5, type: 3}
+  m_PrefabInstance: {fileID: 7087545350491185805}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,4477 @@
+fileFormatVersion: 2
+guid: 8c64974a707c45448bfe19d43473da28
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 300, y: 300, z: 300, w: 300}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tattered_note_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26367f4d10a20e549ab6b2f6e8f700db
+      internalID: 629095696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd766ebc3f115b48a4240e6c1d6734a
+      internalID: -1925593685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae70ab0d5efeae4491da939ed2e778f
+      internalID: 658843602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b5cf0dd2d29041bc53f6ec95c3523
+      internalID: -511025373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb44435866226ff4d9560c94b35a1661
+      internalID: 442344131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b831fc0876264947b614a70a46a7999
+      internalID: 1722551376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6f74518ebf464994053760dbaaf53
+      internalID: -1018941020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4714ba445c7a4246aa6cceaddcdb324
+      internalID: 1618874744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bd51304084234d87401c26e6d7cfd
+      internalID: -2134326690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f193754dd48cef4caccaf72ad03de04
+      internalID: -1481775685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb6ee89dd62ca4b8cb63c28bc78409
+      internalID: -2124556584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f68db5e6abd240af145a2e342273d
+      internalID: -1974182816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f587a79e7b5b54682dd9a464c4ec01
+      internalID: -1345295775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444339938754fe44bd183d2c12afcef
+      internalID: -1064945604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42beed1782baab408431b592a885612
+      internalID: 1359662982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58c19720346c142a458978e322620f
+      internalID: -1139291312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650eb76ee14543f4681db593bfd9488c
+      internalID: -471814667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9bcec8643b9e24ea93b3f08f0e6491
+      internalID: -12840265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c47dedfc530445820e6567ab04ae8
+      internalID: 1307281545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a12d10be3acbd48b8ebbe3f31d6925
+      internalID: 837254268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb060a9d12e0ae3488a83527d9e4b949
+      internalID: 1695027408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cacff5bc09c01242840e67e9387f382
+      internalID: 2033080706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458930f253bc16941984c78a3616f2ce
+      internalID: 552320991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5bd36f495bf340a7feb57288b57ce
+      internalID: 584034535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a91ff77767ddb4ea3600454605c949
+      internalID: -907720592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f88159e5985b42ab1485d5542afa7
+      internalID: -1609331378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608cb82ab7b5d3047aa3d7770f819954
+      internalID: -734853522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76905491a4e4b478e018c4e8b6b2ed
+      internalID: 573391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_28
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e650967c9100947960dfecf9f92e2d
+      internalID: 1860430209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50272cd0139c241b35415959b2b5f7
+      internalID: 1610424335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4032887bb65ca45b66e4593c4d7565
+      internalID: -699189309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8de60b37be9946b7011cb51f74dd8
+      internalID: -1510211033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d342a9a9f902774c9d0cd7739c507be
+      internalID: -1543478724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1e38441525aa43964795eedc9433a
+      internalID: 1900100384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe79e98512bee624685f99481b2fe1a8
+      internalID: -2019932195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86103b386bda2e43b21e10d6221b924
+      internalID: 742253258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4440f72398efb54896a4dfb00ffc89b
+      internalID: 1517556004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c33666c6e907743908cb70ef63245a
+      internalID: -1189258610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a2ea14f568ec439e1eb184c715bed
+      internalID: 758705459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1a49af50ff9247bfa4e98cdadcb6c
+      internalID: -1032224857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366baa16a4c93b4a813d01553400b67
+      internalID: 1719661513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeededf170ea894e98840c00119a570
+      internalID: 1497055407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8582e64fa6964a9d2442295ac348d
+      internalID: 1157177920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072ee67402b720428ac6e41be75d3f7
+      internalID: 482486583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766005d5425deaf43b042a82a0b02f73
+      internalID: 1118727338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f1f535f416fd146a7a9885aa915587
+      internalID: 236797003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd979b05bece2c42b94e4e0a6cd8055
+      internalID: -1245146295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee25a3e8392b74aae0ea4d2d5b6b4f
+      internalID: 972355290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_48
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f62ebf28c8ad459a976b14e48046b
+      internalID: -1715638991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89abc6935e079e48b33aeeeeabe69fa
+      internalID: 1328176081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 550
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc61e46616bda3a4da20673d6bd06c07
+      internalID: 1133389842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb100d3c85aa59478fdc764a5fc4c1e
+      internalID: 1944231488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859588c9c93cdbc40a7fa5b45d4fb65a
+      internalID: 1360561265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26cc2ab4bef50f4bb27eed4239e2af5
+      internalID: 588031365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f84db8d62a034d848bbdd51f515c1
+      internalID: -1963979135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd9c7740981204584bf1333c6720d2
+      internalID: 1079805114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f7a32f31ee8e42a5c4ac14c6092df
+      internalID: 122674835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b5626baea48443bbc365e4931a0f6
+      internalID: -666165980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc37cb4bab49ca45ae6a198380f70ef
+      internalID: -165416347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dca86cdf3b1d04bbe74b4821c4e943
+      internalID: -859750812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ca40688cf2c24bac072b627ab4fa0
+      internalID: -1666205974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98078a4e84189fb438771474bcc408c1
+      internalID: 870530201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f5467a771b89442b11bc67d32aac05
+      internalID: -833111133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_63
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d778c4e48e67244fb1d8aee561301bf
+      internalID: -2073755988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5fc78c1f54d2458c55900df2a1905
+      internalID: -994588838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5fdf5ddcb3d34bbe9fbfaa9193bf9
+      internalID: -944815676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c01cabc062dd14d9e0aefdf0b0c200
+      internalID: 464114053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_67
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369e04833012e348b2eb8f374e4a062
+      internalID: 1651430728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77103c617a8804ca16bde87d734616
+      internalID: 596088967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c54b5cff3b3d4fbda68b167df0beb
+      internalID: 2135685067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1a2647b42c124ea02b6fdab975aaf
+      internalID: -1438059723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72478d6f1cdf4a4aa007a368216c48f
+      internalID: -1600512405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c857c12ec30b44da8237d81225e670
+      internalID: 1154820198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3141a2f1032945b2e97e503a81173
+      internalID: 1138173749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d2c5a7b112dd64eb79d457902a4c75
+      internalID: 1462818609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4e87eef27fd54e98c36b017dda334
+      internalID: -1922550367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d044d195ae60774b945bac659e00065
+      internalID: 365949480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22d16b39989c44a9946828fc447b21
+      internalID: 1792007427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_78
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35b01f995b0794a889c1dffab30708
+      internalID: 219989968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d80b20c21efe544aff5a6cae0260ca
+      internalID: -558102793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d1ce5d79e23f4e97edafacd7ef1d6
+      internalID: -471464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738efc9bbe1302748ae9343d9ad761a8
+      internalID: 593824065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_82
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b231ffbc196f8b4b93b4590b86f519f
+      internalID: -185564115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_83
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03117b92f0c45c94a99e95dfd601c308
+      internalID: -458578760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_84
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 350
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a5118a79eb05444b4062f5e256f65b
+      internalID: 2081583020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c272e2846c861a24ea8465755946689a
+      internalID: 1872690681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60e5e63ea4f01438bf61b9e019fc76
+      internalID: -1456988822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_87
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8f7262976bf64eb7d92cbd1d45c25
+      internalID: -357390231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_88
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d93d14c605ca45b11f2cfd00ed86e
+      internalID: -1125155722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b3112c50ac8445ba5051ba32e0dc2
+      internalID: -1343194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_90
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20869ef0aecfdd948abb9dbf2fc30aa2
+      internalID: -1627479222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04e3f21036b244bb2ccf94c86a0fae
+      internalID: 1896435450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5b91f0acd66b2448ee8160a73fc8b4
+      internalID: 1682337894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_93
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61766da0541b76c4fa4bee28f9430211
+      internalID: 1896488303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_94
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee8971e736e7804782cdd06c5d8996e
+      internalID: -191295358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6fc3ab9a177c49ac6a6c678878449
+      internalID: 1071707578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c2118141e389d43bacfa1d3fd4130a
+      internalID: -886491888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04959918b64626e40bd45c37ef78a8c0
+      internalID: -798973715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd246b924c94b34eac06464bba6b96d
+      internalID: 1560538167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_99
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943dbb5fa832f84ebd6e41e982e3f2a
+      internalID: 1810573323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_100
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13915eaf21c974ab5f219d4969106e
+      internalID: -1614131033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_101
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b8db942c6f7a458afdfc9e7fa37f4
+      internalID: 1268093612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab49e8b525a7c4b8407e996a09aee2
+      internalID: -466708473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_103
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ad93a9934a80d449d795cdb724fc2b
+      internalID: 905552783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d75c3eb1140e54883ef15c38df3e8f
+      internalID: -903249447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_105
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5af43f7765a394c9a7d030032e357b
+      internalID: -1682575999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74321915c9d70d48b004bea424e380e
+      internalID: -865632918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_107
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a48768a06628b94783402f6020b3471
+      internalID: 267797976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eedd8a45fd45a34dba34659d14e297f
+      internalID: -65832819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1603e4757fcb4989af5382dbaeeeb
+      internalID: 839207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_110
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890889abea0f8ed4ab4657859c9e71fe
+      internalID: 1928197789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16330570e882a43a570d90cd6a17d0
+      internalID: 448083891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_112
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d64ebf671840d4698f5d59d94b6b5b
+      internalID: 1108005959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b86d9a0eaec3540848de7a9a88b254
+      internalID: 202916847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40d6e23c0ee084abf3a74668d5761a
+      internalID: -1071929839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de604e549013fbe40b931d9bbef028f3
+      internalID: 1010624155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_116
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675af96a1863ce46899b8a0e406e785
+      internalID: 1001815018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_117
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fa0f8e5d8dfc4c92e3f32748d5403
+      internalID: -739499517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_118
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0f334250b0ef4f88da2bb4472001a
+      internalID: 2059674847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8f07cd8b10574fa6a47b96cbf9fd0
+      internalID: 1128260906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_120
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90f6d8d1a13b04ca0c54b21b6bf292
+      internalID: 680122807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bc00970a0f48428fc7253c1add5e7
+      internalID: 166753086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217977995cf29446a1af8305aa3aa66
+      internalID: -1232755482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_123
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eaac4775ebc5b4b9a5567d87f980ac
+      internalID: 1200137218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_124
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2621f55b8fc9d84cb1ad0ee1ae49d23
+      internalID: 486702021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_125
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426dda06a0dbd74c864d8bb298ec941
+      internalID: 562625069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_126
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab8343194cceb40b1176f6210f92aa
+      internalID: -1727182487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_127
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d94a2cf1b70843a90cd7d5125af7e
+      internalID: 330766869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_128
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4785d419ae7cd4784f9814b9118ccf
+      internalID: -1872523589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fcab4555074542999cf5cbd355ed1
+      internalID: 1498713478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_130
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbdbbcd25687c445b20e17b6eda3163
+      internalID: 651645357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_131
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45cfdcf5ad7c244fb7061803540a07a
+      internalID: -1886927666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_132
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48139ea9baadb46bb24846dfd252aa
+      internalID: -337200364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d62af3256e1a94bb364f59f93308ce
+      internalID: -770974791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_134
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e062b71fcd9048b5b9ef7b00b81bb
+      internalID: 1712244434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_135
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 50
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f85652d96774c4dbeaddbb24cbc966
+      internalID: 1109423020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839192f46117c04f8bdce9b3bffcf22
+      internalID: -661551968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a7e096a036dc44855bc83da08885d
+      internalID: -1070269277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a253f893d69044b9ae241553d5b8b
+      internalID: 937839670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cbdf8b70b6bf40823e81a0d7d4129
+      internalID: 809518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_140
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab8c5f3df26d5489346827e4bb097b
+      internalID: 312238405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_141
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244844492044d994998221ceb0e07fd8
+      internalID: 447513830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4dcb60226007948b82b5bf13ff1b54
+      internalID: 230683377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_143
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c160c191af0dc41a61b8a680907404
+      internalID: -964137890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tattered_note_144
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      physicsShape:
+      - - {x: 0, y: -50}
+        - {x: 50, y: 0}
+        - {x: 0, y: 50}
+        - {x: -50, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f332dd53cabd4ca3d3bac2e5e5f90
+      internalID: -1627223113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tattered_note_0: 629095696
+      tattered_note_1: -1925593685
+      tattered_note_10: -2124556584
+      tattered_note_100: -1614131033
+      tattered_note_101: 1268093612
+      tattered_note_102: -466708473
+      tattered_note_103: 905552783
+      tattered_note_104: -903249447
+      tattered_note_105: -1682575999
+      tattered_note_106: -865632918
+      tattered_note_107: 267797976
+      tattered_note_108: -65832819
+      tattered_note_109: 839207
+      tattered_note_11: -1974182816
+      tattered_note_110: 1928197789
+      tattered_note_111: 448083891
+      tattered_note_112: 1108005959
+      tattered_note_113: 202916847
+      tattered_note_114: -1071929839
+      tattered_note_115: 1010624155
+      tattered_note_116: 1001815018
+      tattered_note_117: -739499517
+      tattered_note_118: 2059674847
+      tattered_note_119: 1128260906
+      tattered_note_12: -1345295775
+      tattered_note_120: 680122807
+      tattered_note_121: 166753086
+      tattered_note_122: -1232755482
+      tattered_note_123: 1200137218
+      tattered_note_124: 486702021
+      tattered_note_125: 562625069
+      tattered_note_126: -1727182487
+      tattered_note_127: 330766869
+      tattered_note_128: -1872523589
+      tattered_note_129: 1498713478
+      tattered_note_13: -1064945604
+      tattered_note_130: 651645357
+      tattered_note_131: -1886927666
+      tattered_note_132: -337200364
+      tattered_note_133: -770974791
+      tattered_note_134: 1712244434
+      tattered_note_135: 1109423020
+      tattered_note_136: -661551968
+      tattered_note_137: -1070269277
+      tattered_note_138: 937839670
+      tattered_note_139: 809518291
+      tattered_note_14: 1359662982
+      tattered_note_140: 312238405
+      tattered_note_141: 447513830
+      tattered_note_142: 230683377
+      tattered_note_143: -964137890
+      tattered_note_144: -1627223113
+      tattered_note_15: -1139291312
+      tattered_note_16: -471814667
+      tattered_note_17: -12840265
+      tattered_note_18: 1307281545
+      tattered_note_19: 837254268
+      tattered_note_2: 658843602
+      tattered_note_20: 1695027408
+      tattered_note_21: 2033080706
+      tattered_note_22: 552320991
+      tattered_note_23: 584034535
+      tattered_note_24: -907720592
+      tattered_note_25: -1609331378
+      tattered_note_26: -734853522
+      tattered_note_27: 573391239
+      tattered_note_28: 1860430209
+      tattered_note_29: 1610424335
+      tattered_note_3: -511025373
+      tattered_note_30: -699189309
+      tattered_note_31: -1510211033
+      tattered_note_32: -1543478724
+      tattered_note_33: 1900100384
+      tattered_note_34: -2019932195
+      tattered_note_35: 742253258
+      tattered_note_36: 1517556004
+      tattered_note_37: -1189258610
+      tattered_note_38: 758705459
+      tattered_note_39: -1032224857
+      tattered_note_4: 442344131
+      tattered_note_40: 1719661513
+      tattered_note_41: 1497055407
+      tattered_note_42: 1157177920
+      tattered_note_43: 482486583
+      tattered_note_44: 1118727338
+      tattered_note_45: 236797003
+      tattered_note_46: -1245146295
+      tattered_note_47: 972355290
+      tattered_note_48: -1715638991
+      tattered_note_49: 1328176081
+      tattered_note_5: 1722551376
+      tattered_note_50: 1133389842
+      tattered_note_51: 1944231488
+      tattered_note_52: 1360561265
+      tattered_note_53: 588031365
+      tattered_note_54: -1963979135
+      tattered_note_55: 1079805114
+      tattered_note_56: 122674835
+      tattered_note_57: -666165980
+      tattered_note_58: -165416347
+      tattered_note_59: -859750812
+      tattered_note_6: -1018941020
+      tattered_note_60: -1666205974
+      tattered_note_61: 870530201
+      tattered_note_62: -833111133
+      tattered_note_63: -2073755988
+      tattered_note_64: -994588838
+      tattered_note_65: -944815676
+      tattered_note_66: 464114053
+      tattered_note_67: 1651430728
+      tattered_note_68: 596088967
+      tattered_note_69: 2135685067
+      tattered_note_7: 1618874744
+      tattered_note_70: -1438059723
+      tattered_note_71: -1600512405
+      tattered_note_72: 1154820198
+      tattered_note_73: 1138173749
+      tattered_note_74: 1462818609
+      tattered_note_75: -1922550367
+      tattered_note_76: 365949480
+      tattered_note_77: 1792007427
+      tattered_note_78: 219989968
+      tattered_note_79: -558102793
+      tattered_note_8: -2134326690
+      tattered_note_80: -471464529
+      tattered_note_81: 593824065
+      tattered_note_82: -185564115
+      tattered_note_83: -458578760
+      tattered_note_84: 2081583020
+      tattered_note_85: 1872690681
+      tattered_note_86: -1456988822
+      tattered_note_87: -357390231
+      tattered_note_88: -1125155722
+      tattered_note_89: -1343194584
+      tattered_note_9: -1481775685
+      tattered_note_90: -1627479222
+      tattered_note_91: 1896435450
+      tattered_note_92: 1682337894
+      tattered_note_93: 1896488303
+      tattered_note_94: -191295358
+      tattered_note_95: 1071707578
+      tattered_note_96: -886491888
+      tattered_note_97: -798973715
+      tattered_note_98: 1560538167
+      tattered_note_99: 1810573323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

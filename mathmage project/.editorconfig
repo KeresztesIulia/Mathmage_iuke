@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0642: Possible mistaken empty statement
+dotnet_diagnostic.CS0642.severity = warning
+
+# CS0108: Member hides inherited member; missing new keyword
+dotnet_diagnostic.CS0108.severity = warning

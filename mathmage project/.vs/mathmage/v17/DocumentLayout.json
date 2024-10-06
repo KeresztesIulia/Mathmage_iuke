@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Intel\\Desktop\\egyetem\\Bsc\\!!szakdolg\\program\\mathmage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|c:\\users\\intel\\desktop\\egyetem\\bsc\\!!szakdolg\\program\\mathmage\\assets\\scripts\\ireactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ireactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|c:\\users\\intel\\desktop\\egyetem\\bsc\\!!szakdolg\\program\\mathmage\\assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29677C84-E676-F4C0-A622-CBF0C6EA8BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReactable.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\Bsc\\!!szakdolg\\program\\mathmage\\Assets\\Scripts\\IReactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IReactable.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\Bsc\\!!szakdolg\\program\\mathmage\\Assets\\Scripts\\IReactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IReactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:04:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorScript.cs",
+              "DocumentMoniker": "C:\\Users\\Intel\\Desktop\\egyetem\\Bsc\\!!szakdolg\\program\\mathmage\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorScript.cs",
+              "ToolTip": "C:\\Users\\Intel\\Desktop\\egyetem\\Bsc\\!!szakdolg\\program\\mathmage\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorScript.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:04:27.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
