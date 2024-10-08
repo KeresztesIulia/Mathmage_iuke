@@ -30,7 +30,7 @@ public class NewGameButton : SceneLoaderButton
                 GameFunctions.LoadScene(sceneName);
             }
         }
-        //else guestUserPopup.SetActive(true); //!!! disabled for testing!
+        //else guestUserPopup.SetActive(true); // disabled for testing!
         
     }
 }

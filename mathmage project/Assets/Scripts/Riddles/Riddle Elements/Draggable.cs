@@ -12,7 +12,7 @@ public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDra
     //[SerializeField] TextMeshProUGUI text;
     public Vector3 snapPosition;
     [SerializeField] DraggableList draggableList;
-    public int indexInList = -1; // really shouldn't be public, DraggableList should be the only one to know about it...
+    public int indexInList = -1;
     protected DropSpot actualDropSpot = null;
 
     DropSpot prevDropSpot = null;
@@ -28,7 +28,6 @@ public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDra
             if (value != null)
             actualDropSpot = value;
         }
-        //get { return actualDropSpot; }
     }
 
     public virtual string Value
@@ -96,10 +95,7 @@ public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDra
         RemoveFromDropSpot();
     }
     
-    // something about if there's no dropspot or list found by the end of the drop
-    // then set it back to the previous dropspot, or if there isn't one, then to the previous list
-    // One of the two has to exist
-    // the name of the function: restore references (to either a dropspot or a list) if the drop is empty (meaning, it didn't land on a dropspot or list)
+    // restore references (to either a dropspot or a list) if the drop is empty (meaning, it didn't land on a dropspot or list)
     void EmptyDropRestoreRefs()
     {
         if (actualDropSpot == null && indexInList == -1)

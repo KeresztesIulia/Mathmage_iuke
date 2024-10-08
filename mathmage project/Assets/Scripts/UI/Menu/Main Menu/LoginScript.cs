@@ -44,7 +44,7 @@ public class LoginScript : ButtonScript
         ChangeText();
         if(UsernameChanged != null)
         {
-            UsernameChanged(); // what's supposed to be subscribed here? -> continue button
+            UsernameChanged();
         }
     }
 
@@ -64,7 +64,7 @@ public class LoginScript : ButtonScript
         string username = PlayerPrefs.GetString(usernameString);
         if (username == "guest" || username == "")
         {
-            usernameText.text = "vendég";
+            usernameText.text = "vendï¿½g";
         }
         else
         {

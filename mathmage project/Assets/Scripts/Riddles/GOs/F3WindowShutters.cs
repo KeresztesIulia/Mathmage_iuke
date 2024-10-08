@@ -28,10 +28,5 @@ public class F3WindowShutters : RiddleObject
         leftShutter.localScale = new Vector3(shutterScale, 1, 1);
         rightShutter.localScale = new Vector3(shutterScale, 1, 1);
 
-        //step.localPosition = stepStartPosition;
-        //step.Translate(new Vector3(-Mathf.Min(a, b) * 0.13f, 0, 0), Space.Self); //DEBUG!!! not a debug code, but needs to be changed in final with the correct directions and sizes!
-
-        //step.localScale = new Vector3(length, 1, 1);
-        //}
     }
 }

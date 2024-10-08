@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class DraggableList : MonoBehaviour, IDropHandler
 {
-    [SerializeField] List<Draggable> draggables; // same heights!
+    [SerializeField] List<Draggable> draggables;
     [SerializeField] RectTransform thisElement;
     [SerializeField] float paddingAmount = 5;
     float padding;

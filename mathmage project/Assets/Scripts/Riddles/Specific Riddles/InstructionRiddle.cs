@@ -9,7 +9,7 @@ public class InstructionRiddle : Riddle
     [SerializeField] DropSpot[] dropSpots;
     [SerializeField] TextMeshProUGUI mainText;
 
-    Transform parent; // Debug! -> addig kell amíg még nincs meg a teljes instrukció-menet
+    Transform parent;
 
     Dictionary<string, DropSpot> dsDict = new Dictionary<string, DropSpot>();
 
@@ -52,15 +52,15 @@ public class InstructionRiddle : Riddle
     {
         if (CreativeCorrect)
         {
-            mainText.text = "Ez egy nem-alap megoldás, ami még elfogadható.";
+            mainText.text = "Ez egy nem-alap megoldï¿½s, ami mï¿½g elfogadhatï¿½.";
         }
         else if (Correct)
         {
-            mainText.text = "Ez az alap helyes megoldás.";
+            mainText.text = "Ez az alap helyes megoldï¿½s.";
         }
         else if (CreativeIncorrect)
         {
-            mainText.text = "Ez egy kreatív megoldás, és matematikailag helyes, de nem használja fel az 'elvárt' tudást, nem számít helyesnek. (majd az igazi útmutatószövegben másképp lesz ez leírva)";
+            mainText.text = "Ez egy kreatï¿½v megoldï¿½s, ï¿½s matematikailag helyes, de nem hasznï¿½lja fel az 'elvï¿½rt' tudï¿½st, nem szï¿½mï¿½t helyesnek. (majd az igazi ï¿½tmutatï¿½szï¿½vegben mï¿½skï¿½pp lesz ez leï¿½rva)";
         }
     }
 

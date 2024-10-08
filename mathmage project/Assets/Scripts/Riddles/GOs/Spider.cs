@@ -3,11 +3,6 @@ using UnityEngine;
 
 public class Spider : PhasedObject, ISaveable
 {
-    // DEBUG!!!! kinda... anyway, should be deleted
-    // 1 - I'm hungry
-    // 2 - tenkjú, I'm going to eat the food now
-    // 3 - what sign should I make on the teleport - mark it on the teleport and I will make it
-    // 4 - done, you can now use the teleport - (maybe something about the mage not liking visitors, but it's weird that he hasn't come down for a while now)
     [SerializeField] Riddle fillerReplacer;
     bool savedMageKnowledge = false;
 

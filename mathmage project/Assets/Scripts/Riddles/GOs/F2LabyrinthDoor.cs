@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 
 
-// for the GameObject
 public class F2LabyrinthDoor : RiddleObject
 {
     float startTime = 0;

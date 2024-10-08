@@ -59,7 +59,7 @@ public abstract class Riddle : Closeable, ISaveable
         InitializePrevValues();
         BuildDraggableDictionary();
         ChangeDesign();
-        Close(); // KELL! Mert másképp nem tudom megbuildelni a loadhoz a dictet!!! (a kommentre:) DEBUG!!!ű
+        Close();
     }
 
     private void InitializePrevValues()

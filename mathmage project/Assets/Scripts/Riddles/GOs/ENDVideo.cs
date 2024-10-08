@@ -58,10 +58,6 @@ public class ENDVideo : PhasedObjectDelegate
         {
             GameFunctions.PlayTimeline(preActivationTimeline);
             
-            // well never mind this idea now... forgot this was even here
-            // cutscene: "Where is the Mágus? He wasn't on any of the other floors, and he's not here. Was he turned to stone too? But then... there is no way to stop this ... Huh, what is this? (takes up video thing, it starts playing)"
-            // if MageIsNotHereKnown: "Where is the Mágus? Is he really not here? But then... did he turn to stone too? There is no way to stop this, then? ... Huh, what is this? (video plays)"
-            
         };
         phaseActions[1] = delegate
         {
